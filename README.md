@@ -35,6 +35,7 @@ Comissão:      R$ 30,000.00
 Status:        ELITE
 ------------------------------
 PARABÉNS!!!!
+```
 
 ## Próximos Passos
 
