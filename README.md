@@ -64,8 +64,3 @@ cd mini-etl-imobiliario
 python main.py
 
 ```
-
-
-**Gostaria que eu te ajudasse a escrever o "About" (descrição lateral) do repositório no GitHub para atrair mais cliques de recrutadores?**
-
-```
